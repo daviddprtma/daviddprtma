@@ -10,7 +10,7 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 
 ### Introducing Myself
 <p align="center"> 
-  <p>Hello My Name is David Pratama. I live in Surabaya, Indonesia. Iam 21 years old. Iam study in Universitas Surabaya (Ubaya) and Iam take as a student in 
+  <p>Hello My Name is David Pratama. Iam 21 years old. Iam study in University of Surabaya (Ubaya) and Iam take as a student in 
     IT field. I have a nice family who always support me to become as Database Administrator(DBA) soon. So it is my short introduction to you all. I hope you like my page whenever I make a project and push it in this my github page. Thank you and God Bless You</p>
 </p>
 
