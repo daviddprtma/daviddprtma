@@ -1,7 +1,7 @@
 # About daviddprtma
 This is about the general info of mine. Feel free to read it and enjoy to read :)
 
-## Need to collab work with me? For Sure Iam an open person so why not to collab with me together and tell the world that we can do this right? 
+## Need to collab work with me? For Sure Iam an open person so why not to collab with me and tell to the world that we can do this right? 
 If you want to collab with me just DM me in Instagram @daviddprtma and we'll discuss about what project should we collab together and tell it to the reels Instagram
 Wow.... That's so amazing right?? Hahahahhaa
 
