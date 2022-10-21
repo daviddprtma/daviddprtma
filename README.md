@@ -15,7 +15,11 @@ Wow.... That's so amazing right?? Hahahahhaa
 ### Introducing Myself
 <p align="center"> 
   <p>Hello My Name is David Pratama. Iam 21 years old. Iam study in University of Surabaya (Ubaya) and Iam take as a student in 
-    IT field. I have a nice family who always support me to become as Database Administrator(DBA) soon. So it is my short introduction to you all. I hope you like my page whenever I make a project and push it in this my github page. Thank you and God Bless You</p>
+    IT field. I have a nice family who always support me to become as Database Administrator(DBA) soon. 
+I also started as a streamer in twitch from  July 2022 until now.
+If you want to know me well, just say hi and welcome to the my party.
+Not so long to know me, here's the linl for my twitch channel https://m.twitch.tv/mrdavid2812 
+So it is my short introduction to you all. I hope you like my page whenever I make a project and push it in this my github page. Thank you and God Bless You</p>
 </p>
 
 ### My Goals
