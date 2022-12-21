@@ -50,6 +50,7 @@ So it is my short introduction to you all. I hope you like my page whenever I ma
   <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/php.gif" width="100">
   <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/mysql.png" width="100">
   <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/sql-server.png" width="100">
+  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/flutter.gif" width="100">
 </p>
 <br>
 <br>     
