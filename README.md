@@ -32,7 +32,7 @@ So it is my short introduction to you all. I hope you like my page whenever I ma
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
 
 ## My Github Wrapped 2022 
-
+<img align='center' src='githubwrapped2022.png' width='900"'>
 
 <br>
 <br> 
