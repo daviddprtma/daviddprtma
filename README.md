@@ -24,8 +24,8 @@ So it is my short introduction to you all. I hope you like my page whenever I ma
 
 ### My Goals
 <details>
-  <summary><b>:telescope: 2022 goal</b></summary>
-  ✨✨ I <i>want</i> in 2022 to focus my career on Database Administrator(DBA):). But It is not easy to do that. I should be take more course on DBA by get a pass examination from Udemy,Coursera, and etc certification for DBA. I hope this my dream become true. Amen<br><br>
+  <summary><b>:telescope: 2023 goal</b></summary>
+  ✨✨ I <i>want</i> in 2023 to focus my career on Database Administrator(DBA) or become as a Fullstack Laravel Developer:). But It is not easy to do that. I should be take more course on DBA by get a pass examination from Udemy,Coursera, and etc certification for DBA. I hope this my dream become true. Amen<br><br>
 </details>
 
 ## My contribution graph get eaten by the snake 🐍:
