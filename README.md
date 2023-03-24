@@ -14,7 +14,7 @@ Wow.... That's so amazing right?? Hahahahhaa
 
 ### Introducing Myself
 <p align="center"> 
-  <p>Hello My Name is David Pratama. Iam 21 years old. Iam study in University of Surabaya (Ubaya) and Iam take as a student in 
+  <p>Hello My Name is David Pratama. Iam 22 years old. Iam study in University of Surabaya (Ubaya) and Iam take as a student in 
     IT field. I have a nice family who always support me to become as Database Administrator(DBA) soon. 
 I also started as a streamer in twitch from  July 2022 until now.
 If you want to know me well, just say hi and welcome to the my party.
