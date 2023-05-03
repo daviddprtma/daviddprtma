@@ -29,7 +29,6 @@ So it is my short introduction to you all. I hope you like my page whenever I ma
 </details>
 
 ## My PC Specs:
-<br>
 AMD Threadripper 1920X 3.5 GHz 12-Core Processor
 Corsair H100i RGB PLATINUM SE 63 CFM Liquid CPU Cooler
 Asus ROG Strix X399-E Gaming EATX sTR4 Motherboard
@@ -41,6 +40,7 @@ Corsair Crystal 680X RGB ATX Mid Tower Case
 EVGA G3 750 W 80+ Gold Certified Fully Modular ATX Power Supply
 <br>
 The other stuff for accompany me to stream!
+<br>
 Corsair Void Elite Pro Wireless Headset
 Corsair M65 RGB ELITE Tunable FPS Gaming Mouse
 Corsair K100 RGB Optical Gaming Keyboard
