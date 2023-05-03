@@ -15,7 +15,7 @@ Wow.... That's so amazing right?? Hahahahhaa
 ### Introducing Myself
 <p align="center"> 
   <p>Hello My Name is David Pratama. Iam 22 years old. Iam study in University of Surabaya (Ubaya) and Iam take as a student in 
-    IT field. I have a nice family who always support me to become as Database Administrator(DBA) soon. 
+    IT field. I have a nice family who always support me to become as Database Administrator(DBA) soon or Laravel Developer 🏅. 
 I also started as a streamer in twitch from  July 2022 until now.
 If you want to know me well, just say hi and welcome to the my party.
 Not so long to know me, here's the link for my twitch channel https://m.twitch.tv/mrdavidds .
@@ -28,6 +28,28 @@ So it is my short introduction to you all. I hope you like my page whenever I ma
   ✨✨ I <i>want</i> in 2023 to focus my career on Database Administrator(DBA) or become as a Fullstack Laravel Developer:). But It is not easy to do that. I should be take more course on DBA by get a pass examination from Udemy,Coursera, and etc certification for DBA. I hope this my dream become true. Amen<br><br>
 </details>
 
+## My PC Specs:
+<details>
+  <summary>
+AMD Threadripper 1920X 3.5 GHz 12-Core Processor
+Corsair H100i RGB PLATINUM SE 63 CFM Liquid CPU Cooler
+Asus ROG Strix X399-E Gaming EATX sTR4 Motherboard
+(6x) Corsair Vengeance RGB Pro (8 GB) DDR4-3200 CL16 Memory
+NVIDIA GeForce RTX 2070 SUPER 8 GB Founders Edition Video Card
+Seagate Barracuda 1 TB 3.5" 7200RPM Internal Hard Drive
+Crucial P1 1 TB M.2-2280 NVME Solid State Drive
+Corsair Crystal 680X RGB ATX Mid Tower Case
+EVGA G3 750 W 80+ Gold Certified Fully Modular ATX Power Supply
+    
+The other stuff for accompany me to stream!
+Corsair Void Elite Pro Wireless Headset
+Corsair M65 RGB ELITE Tunable FPS Gaming Mouse
+Corsair K100 RGB Optical Gaming Keyboard
+Razer Goliath Chroma Jumbo RGB Mousepad
+(3x) AOC C24G1 24" Curved Frameless Gaming Monitor, FHD 1080p, 1500R VA panel, 1ms 144Hz
+DropLabs EP 01 Haptic Feedback Shoes
+  </summary>
+</details>
 ## My contribution graph get eaten by the snake 🐍:
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
 
@@ -82,4 +104,3 @@ So it is my short introduction to you all. I hope you like my page whenever I ma
 <br> 
 <br>
 <br> 
-
