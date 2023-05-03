@@ -29,24 +29,25 @@ So it is my short introduction to you all. I hope you like my page whenever I ma
 </details>
 
 ## My PC Specs:
-AMD Threadripper 1920X 3.5 GHz 12-Core Processor
-Corsair H100i RGB PLATINUM SE 63 CFM Liquid CPU Cooler
-Asus ROG Strix X399-E Gaming EATX sTR4 Motherboard
-(6x) Corsair Vengeance RGB Pro (8 GB) DDR4-3200 CL16 Memory
-NVIDIA GeForce RTX 2070 SUPER 8 GB Founders Edition Video Card
-Seagate Barracuda 1 TB 3.5" 7200RPM Internal Hard Drive
-Crucial P1 1 TB M.2-2280 NVME Solid State Drive
-Corsair Crystal 680X RGB ATX Mid Tower Case
-EVGA G3 750 W 80+ Gold Certified Fully Modular ATX Power Supply
+<ul>
+  <li>AMD Threadripper 1920X 3.5 GHz 12-Core Processor</li>
+  <li>Corsair H100i RGB PLATINUM SE 63 CFM Liquid CPU Cooler</li>
+  <li>Asus ROG Strix X399-E Gaming EATX sTR4 Motherboard</li>
+  <li>(6x) Corsair Vengeance RGB Pro (8 GB) DDR4-3200 CL16 Memory</li>
+  <li>NVIDIA GeForce RTX 2070 SUPER 8 GB Founders Edition Video Card</li>
+  <li>Seagate Barracuda 1 TB 3.5" 7200RPM Internal Hard Drive</li>
+  <li>Crucial P1 1 TB M.2-2280 NVME Solid State Drive</li>
+  <li>Corsair Crystal 680X RGB ATX Mid Tower Case</li>
+  <li>EVGA G3 750 W 80+ Gold Certified Fully Modular ATX Power Supply</li>
 <br>
 The other stuff for accompany me to stream!
 <br>
-Corsair Void Elite Pro Wireless Headset
-Corsair M65 RGB ELITE Tunable FPS Gaming Mouse
-Corsair K100 RGB Optical Gaming Keyboard
-Razer Goliath Chroma Jumbo RGB Mousepad
-(3x) AOC C24G1 24" Curved Frameless Gaming Monitor, FHD 1080p, 1500R VA panel, 1ms 144Hz
-DropLabs EP 01 Haptic Feedback Shoes
+  <li>Corsair Void Elite Pro Wireless Headset</li>
+  <li>Corsair M65 RGB ELITE Tunable FPS Gaming Mouse</li>
+  <li>Corsair K100 RGB Optical Gaming Keyboard</li>
+  <li>Razer Goliath Chroma Jumbo RGB Mousepad</li>
+  <li>(3x) AOC C24G1 24" Curved Frameless Gaming Monitor, FHD 1080p, 1500R VA panel, 1ms 144Hz</li>
+  <li>DropLabs EP 01 Haptic Feedback Shoes</li>
     
 ## My contribution graph get eaten by the snake 🐍:
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
