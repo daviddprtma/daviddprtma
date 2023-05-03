@@ -48,6 +48,7 @@ The other stuff for accompany me to stream!
   <li>Razer Goliath Chroma Jumbo RGB Mousepad</li>
   <li>(3x) AOC C24G1 24" Curved Frameless Gaming Monitor, FHD 1080p, 1500R VA panel, 1ms 144Hz</li>
   <li>DropLabs EP 01 Haptic Feedback Shoes</li>
+</ul>
     
 ## My contribution graph get eaten by the snake 🐍:
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
