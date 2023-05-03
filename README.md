@@ -29,8 +29,7 @@ So it is my short introduction to you all. I hope you like my page whenever I ma
 </details>
 
 ## My PC Specs:
-<details>
-  <summary>
+<br>
 AMD Threadripper 1920X 3.5 GHz 12-Core Processor
 Corsair H100i RGB PLATINUM SE 63 CFM Liquid CPU Cooler
 Asus ROG Strix X399-E Gaming EATX sTR4 Motherboard
@@ -40,7 +39,7 @@ Seagate Barracuda 1 TB 3.5" 7200RPM Internal Hard Drive
 Crucial P1 1 TB M.2-2280 NVME Solid State Drive
 Corsair Crystal 680X RGB ATX Mid Tower Case
 EVGA G3 750 W 80+ Gold Certified Fully Modular ATX Power Supply
-    
+<br>
 The other stuff for accompany me to stream!
 Corsair Void Elite Pro Wireless Headset
 Corsair M65 RGB ELITE Tunable FPS Gaming Mouse
@@ -48,8 +47,7 @@ Corsair K100 RGB Optical Gaming Keyboard
 Razer Goliath Chroma Jumbo RGB Mousepad
 (3x) AOC C24G1 24" Curved Frameless Gaming Monitor, FHD 1080p, 1500R VA panel, 1ms 144Hz
 DropLabs EP 01 Haptic Feedback Shoes
-  </summary>
-</details>
+    
 ## My contribution graph get eaten by the snake 🐍:
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
 
