@@ -51,7 +51,7 @@ The other stuff for accompany me to stream!
 </ul>
     
 ## My contribution graph get eaten by the snake 🐍:
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+# In building process :)
 
 ## My Github Wrapped 2022 
 <img align='center' src='githubwrapped2022.png' width='900"'>
