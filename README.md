@@ -61,18 +61,26 @@ The other stuff for accompany me to stream!
 <br>
 
 ## My Skill From 2019 - 2023
+# I order this list programming and editing program from the code that I love until the last order that I seldom to use but I want to implement it more (:
 <p align="center">
-  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/kotlin.gif" width="100">
+  
   <img src=https://github.com/daviddprtma/about-daviddprtma/blob/main/laravel.gif width="100">
-  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/python.gif" width="100">
+  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/kotlin.gif" width="100">
   <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/angular.gif" width="100">
+  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/typescript.png" width="100">
+  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/python.gif" width="100">
   <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/java.gif" width="100">
   <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/html.gif" width="100">
+  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/css3.gif" width="120">
   <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/javascript.gif" width="100">
   <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/php.gif" width="100">
   <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/mysql.png" width="100">
   <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/sql-server.png" width="100">
   <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/flutter.gif" width="100">
+  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/adobe illustrator.gif" width="100">
+  <img src="https://github.com/daviddprtma/daviddprtma/blob/main/adobe%20premiere%20pro.gif" width="100">
+  <img src="https://github.com/daviddprtma/daviddprtma/blob/main/c%23.gif" width="100">
+  <img src="https://github.com/daviddprtma/daviddprtma/blob/main/unity.gif" width="100">
 </p>
 <br>
 <br>     
