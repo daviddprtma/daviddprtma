@@ -105,7 +105,7 @@ The other stuff for accompany me to stream!
   <a href="https://www.youtube.com/channel/UCEuU1ssY4yxuBJw8V6nBfEA" target="_blank">
     <img src="https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s900-c-k-c0x00ffffff-no-rj" alt="Youtube" width="100"/>
   </a>
-  <a href="https://www.twitch.tv/mrdavid2812" target="_blank">
+  <a href="https://www.twitch.tv/mrdavidd" target="_blank">
     <img src="https://play-lh.googleusercontent.com/If1MsuVtHYaDOiLZiCK82yIRSrBnPLnh11W60UnVyQWGsXKPNyALoJjDg_jAyXZNuw" alt="Twitch" width="100"/>
   </a>
 </p>
