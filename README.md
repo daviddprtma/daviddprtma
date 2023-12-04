@@ -109,6 +109,11 @@ The other stuff for accompany me to stream!
     <img src="https://play-lh.googleusercontent.com/If1MsuVtHYaDOiLZiCK82yIRSrBnPLnh11W60UnVyQWGsXKPNyALoJjDg_jAyXZNuw" alt="Twitch" width="100"/>
   </a>
 </p>
-<br> 
 <br>
-<br> 
+
+# My Github Wrapped 2023 So Far Iam being active in here
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://www.githubwrapped.io/daviddprtma)
+
+### Statistics of my contribution in 2023 🔥✌️😎
+<img src=https://github.com/daviddprtma/daviddprtma/blob/main/github-wrapped.png width="1000">
+
