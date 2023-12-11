@@ -12,8 +12,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 # My Top Streak In Github
 [![GitHub Streak](https://streak-stats.demolab.com/?user=daviddprtma&theme=ambient-gradient)](https://git.io/streak-stats)
 
-# WHat I Listen Now In My Spotify 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=davidchristianpratama&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=davidchristianpratama&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
+# What I Recently Played In My Spotify 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=davidchristianpratama)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ## Need to collab work with me? For Sure Iam an open person so why not to collab with me and tell to the world that we can do this right? 
 If you want to collab with me just DM me in Instagram @daviddprtma and we'll discuss about what project should we collab together and share it to the reels Instagram
