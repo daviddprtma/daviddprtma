@@ -1,5 +1,19 @@
 # About daviddprtma
 This is about the general info of mine. Feel free to read it and enjoy to read :)
+# My Github Stats
+[![daviddprtma GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddprtma&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+![daviddprtma GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddprtma&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+# My Top Languages To be Used So Far
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddprtma&size_weight=0.5&count_weight=0.5)
+
+# My Top Streak In Github
+[![GitHub Streak](https://streak-stats.demolab.com/?user=daviddprtma&theme=ambient-gradient)](https://git.io/streak-stats)
+
+# WHat I Listen Now In My Spotify 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=davidchristianpratama&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=davidchristianpratama&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
 
 ## Need to collab work with me? For Sure Iam an open person so why not to collab with me and tell to the world that we can do this right? 
 If you want to collab with me just DM me in Instagram @daviddprtma and we'll discuss about what project should we collab together and share it to the reels Instagram
@@ -49,13 +63,6 @@ The other stuff for accompany me to stream!
   <li>(3x) AOC C24G1 24" Curved Frameless Gaming Monitor, FHD 1080p, 1500R VA panel, 1ms 144Hz</li>
   <li>DropLabs EP 01 Haptic Feedback Shoes</li>
 </ul>
-    
-## My contribution graph get eaten by the snake 🐍:
-![Snake animation](https://github.com/daviddprtma/daviddprtma/blob/output/github-contribution-grid-snake.svg)
-
-## My Github Wrapped 2022 
-<img align='center' src='githubwrapped2022.png' width='900"'>
-
 <br>
 <br> 
 <br>
@@ -63,24 +70,15 @@ The other stuff for accompany me to stream!
 ## My Skill From 2019 - 2023
 # I order this list programming and editing program from the code that I love until the last order that I seldom to use but I want to implement it more (:
 <p align="center">
-  
-  <img src=https://github.com/daviddprtma/about-daviddprtma/blob/main/laravel.gif width="100">
-  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/kotlin.gif" width="100">
-  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/angular.gif" width="100">
-  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/typescript.png" width="100">
-  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/python.gif" width="100">
-  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/java.gif" width="100">
-  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/html.gif" width="100">
-  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/css3.gif" width="120">
-  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/javascript.gif" width="100">
-  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/php.gif" width="100">
-  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/mysql.png" width="100">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,kotlin,angular,typescript,python,java,html,css,javascript,php,mysql,flutter,unity" />
+  </a>
+</p>
+<p align="center">
   <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/sql-server.png" width="100">
-  <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/flutter.gif" width="100">
   <img src="https://github.com/daviddprtma/about-daviddprtma/blob/main/adobe illustrator.gif" width="100">
   <img src="https://github.com/daviddprtma/daviddprtma/blob/main/adobe%20premiere%20pro.gif" width="100">
   <img src="https://github.com/daviddprtma/daviddprtma/blob/main/c%23.gif" width="100">
-  <img src="https://github.com/daviddprtma/daviddprtma/blob/main/unity.gif" width="100">
 </p>
 <br>
 <br>     
