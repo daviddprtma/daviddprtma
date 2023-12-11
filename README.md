@@ -15,6 +15,10 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 # What I Recently Played In My Spotify 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=davidchristianpratama)
 
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=davidchristianpratama">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=davidchristianpratama&show_border=1&show_date=1&time_zone=Asia/Jakarta" alt="Data Card for Spotify">
+</a>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
