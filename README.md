@@ -9,6 +9,10 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 # My Top Languages To be Used So Far
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddprtma&size_weight=0.5&count_weight=0.5)
 
+# My Top Longest Time To Spend Coding
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # My Top Streak In Github
 [![GitHub Streak](https://streak-stats.demolab.com/?user=daviddprtma&theme=ambient-gradient)](https://git.io/streak-stats)
 
