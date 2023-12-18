@@ -11,6 +11,15 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 
 # My Top Longest Time To Spend Coding
 <!--START_SECTION:waka-->
+
+```txt
+PHP              9 hrs 12 mins   ███████████████████░░░░░░   75.57 %
+Blade Template   2 hrs 40 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
+JavaScript       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+```
+
 <!--END_SECTION:waka-->
 
 # My Top Streak In Github
