@@ -13,8 +13,8 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-PHP    11 hrs 20 mins  █████████████████████████   99.95 %
-HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+PHP    10 hrs 27 mins  █████████████████████████   99.98 %
+HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
