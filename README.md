@@ -13,7 +13,8 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-PHP   7 hrs 16 mins   █████████████████████████   100.00 %
+PHP          7 hrs 16 mins   ████████████████████████▓   98.27 %
+JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
