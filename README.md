@@ -1,4 +1,4 @@
-# About daviddprtma
+# About daviddprtma & Who IAM ✌️
 This is about the general info of mine. Feel free to read it and enjoy to read :)
 # My Github Stats
 [![daviddprtma GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddprtma&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -58,8 +58,11 @@ So it is my short introduction to you all. I hope you like my page whenever I ma
 
 ### My Goals
 <details>
-  <summary><b>:telescope: 2023 goal</b></summary>
-  ✨✨ I <i>want</i> in 2023 to focus my career on Database Administrator(DBA) or become as a Fullstack Laravel Developer:). But It is not easy to do that. I should be take more course on DBA by get a pass examination from Udemy,Coursera, and etc certification for DBA. I hope this my dream become true. Amen<br><br>
+  <summary><b>:telescope: 2024 goal</b></summary>
+        <ul>
+  <li>✨✨ I <i>want</i> in 2024 to focus my career in Laravel Developer:).<br></li>
+  <li>  🦾 Have a good mental health & money of course. </li>
+        </ul>
 </details>
 
 ## My PC Specs:
