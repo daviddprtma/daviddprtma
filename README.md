@@ -13,11 +13,8 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Dart    5 hrs 42 mins   ██████████████████████▒░░   89.85 %
-Rust    29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-XML     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Dart   3 hrs 41 mins   █████████████████████▓░░░   87.28 %
+Rust   32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
 ```
 
 <!--END_SECTION:waka-->
