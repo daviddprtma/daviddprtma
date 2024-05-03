@@ -13,8 +13,8 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   3 hrs 41 mins   █████████████████████▓░░░   87.28 %
-Rust   32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+Dart   3 hrs 38 mins   █████████████████████▓░░░   87.11 %
+Rust   32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
 ```
 
 <!--END_SECTION:waka-->
