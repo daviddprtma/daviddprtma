@@ -13,9 +13,9 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   4 hrs 34 mins   ███████████████████▒░░░░░   77.61 %
-Bash   46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
-Rust   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Dart   4 hrs 14 mins   ███████████████████░░░░░░   76.27 %
+Bash   46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Rust   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
 ```
 
 <!--END_SECTION:waka-->
