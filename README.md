@@ -13,11 +13,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Dart     7 hrs 55 mins   ████████████████████▒░░░░   81.99 %
-Python   51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-Bash     47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-HTML     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Dart     6 hrs 39 mins   ██████████████████████░░░   87.38 %
+Python   51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+HTML     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
