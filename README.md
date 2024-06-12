@@ -13,11 +13,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-PHP             9 hrs 35 mins   ██████████████████▒░░░░░░   73.45 %
-Rust            1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-Python          36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-Text            20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-JSON            18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+PHP             10 hrs 52 mins  ███████████████████░░░░░░   75.89 %
+Rust            1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+Python          36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Text            20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+JSON            18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
