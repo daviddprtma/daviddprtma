@@ -13,11 +13,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                14 hrs 14 mins  ███████████████████▓░░░░░   79.28 %
-HTML               1 hr 52 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Dart               1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Rust               32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-TOML               6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+PHP                18 hrs 9 mins   ██████████████████████▓░░   90.66 %
+HTML               1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Rust               32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+TOML               6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Bash               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
