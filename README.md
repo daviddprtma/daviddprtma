@@ -15,7 +15,7 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 ```txt
 Rust             1 hr 40 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
 JavaScript       1 hr 37 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
-Blade Template   1 hr 2 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+Blade Template   1 hr 2 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
 Bash             48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
 JSON             21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
 ```
