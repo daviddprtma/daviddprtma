@@ -13,9 +13,9 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             4 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.88 %
-JavaScript       3 hrs 30 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
-HTML             3 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
+Dart             4 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.89 %
+JavaScript       3 hrs 30 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.68 %
+HTML             3 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
 YAML             46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
 PHP              30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
