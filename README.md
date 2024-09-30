@@ -129,5 +129,8 @@ The other stuff for accompany me to stream!
   <a href="https://www.twitch.tv/mrdavidd" target="_blank">
     <img src="https://play-lh.googleusercontent.com/If1MsuVtHYaDOiLZiCK82yIRSrBnPLnh11W60UnVyQWGsXKPNyALoJjDg_jAyXZNuw" alt="Twitch" width="100"/>
   </a>
+  <a href="https://www.linkedin.com/in/david-pratama-8a8aa8284/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy0iyyA5eErxHa-Lple4R8tx_txc65b88_bQ&s"   alt="Linkedin" width="100"/>
+  </a>
 </p>
 <br>
