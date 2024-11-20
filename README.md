@@ -13,9 +13,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 5 mins    ████████████████████████░   95.49 %
-Python       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+JavaScript   2 hrs 5 mins    █████████████████████▒░░░   85.28 %
+YAML         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Python       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
