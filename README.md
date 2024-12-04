@@ -13,10 +13,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 37 mins    ████████████▓░░░░░░░░░░░░   50.12 %
-C#           1 hr 36 mins    ████████████▒░░░░░░░░░░░░   49.68 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C            2 hrs 10 mins   █████████▒░░░░░░░░░░░░░░░   37.93 %
+JavaScript   1 hr 37 mins    ███████░░░░░░░░░░░░░░░░░░   28.54 %
+C#           1 hr 36 mins    ███████░░░░░░░░░░░░░░░░░░   28.29 %
+TypeScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
