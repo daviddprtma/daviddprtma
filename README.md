@@ -13,11 +13,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-C             3 hrs 4 mins    ████████████▒░░░░░░░░░░░░   48.73 %
-Dart          1 hr            ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-Makefile      45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-JavaScript    37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-C#            22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+C             3 hrs 4 mins    ██████████▒░░░░░░░░░░░░░░   41.15 %
+Dart          2 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   30.70 %
+Makefile      45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+JavaScript    37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+C#            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
