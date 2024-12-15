@@ -13,9 +13,9 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   3 hrs 24 mins   █████████████████████▓░░░   86.79 %
-C#     25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-YAML   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Dart   3 hrs 24 mins   ████████████▓░░░░░░░░░░░░   50.91 %
+C#     3 hrs 10 mins   ████████████░░░░░░░░░░░░░   47.61 %
+YAML   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
