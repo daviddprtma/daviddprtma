@@ -13,9 +13,8 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         1 hr 42 mins    ███████████████████░░░░░░   75.66 %
-C#           32 mins         ██████░░░░░░░░░░░░░░░░░░░   24.20 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+C#     32 mins         █████████████████▓░░░░░░░   70.42 %
+Dart   13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.58 %
 ```
 
 <!--END_SECTION:waka-->
