@@ -13,8 +13,8 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   47 mins         ███████████████░░░░░░░░░░   59.41 %
-C#     32 mins         ██████████░░░░░░░░░░░░░░░   40.59 %
+Dart   34 mins         ████████████▓░░░░░░░░░░░░   51.07 %
+C#     32 mins         ████████████▒░░░░░░░░░░░░   48.93 %
 ```
 
 <!--END_SECTION:waka-->
