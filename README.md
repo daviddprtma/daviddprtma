@@ -13,8 +13,10 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   34 mins         ████████████▓░░░░░░░░░░░░   51.07 %
-C#     32 mins         ████████████▒░░░░░░░░░░░░   48.93 %
+Dart     34 mins         █████████▓░░░░░░░░░░░░░░░   38.62 %
+C#       32 mins         █████████▒░░░░░░░░░░░░░░░   37.01 %
+Python   20 mins         ██████░░░░░░░░░░░░░░░░░░░   23.48 %
+CSS      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
