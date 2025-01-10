@@ -48,9 +48,9 @@ Wow.... That's so amazing right?? Hahahahhaa
 
 ### Introducing Myself
 <p align="center"> 
-  <p>Hello My Name is David Pratama. Iam 23 years old. Iam study in University of Surabaya (Ubaya) and Iam take as a student in 
-    IT field. I have a nice family who always support me to become as Database Administrator(DBA) soon or Laravel Developer 🏅. 
-I also started as a streamer in twitch from  July 2022 until now.
+  <p>Hello My Name is David Pratama. Iam 24 years old. Iam a remote IT Developer from Singapore. I study in University of Surabaya (Ubaya) and I take as a student in 
+    IT field.
+I also started as a streamer in twitch from  July 2022 until now (but it got paused due to demand for work and I'll make sure to come back again when I find a good time to stream and have chit-chat with you all🥲😊).
 If you want to know me well, just say hi and welcome to the my party.
 Not so long to know me, here's the link for my twitch channel https://m.twitch.tv/mrdavidds .
 So it is my short introduction to you all. I hope you like my page whenever I make a project and push it in this my github page. Thank you and God Bless You</p>
@@ -58,10 +58,9 @@ So it is my short introduction to you all. I hope you like my page whenever I ma
 
 ### My Goals
 <details>
-  <summary><b>:telescope: 2024 goal</b></summary>
+  <summary><b>:telescope: 2025 goal</b></summary>
         <ul>
-  <li>✨✨ I <i>want</i> in 2024 to focus my career in Laravel Developer:).<br></li>
-  <li>  🦾 Have a good mental health & money of course. </li>
+  <li>Have a good financial, good relationship, and also improve the career to be a better person✅</li>
         </ul>
 </details>
 
