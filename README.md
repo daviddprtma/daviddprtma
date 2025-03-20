@@ -13,11 +13,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 21 mins    █████████▓░░░░░░░░░░░░░░░   38.21 %
-TOML         44 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
-Text         35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
-Bash         21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-Git Config   20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Python       2 hrs 28 mins   ██████████▓░░░░░░░░░░░░░░   42.63 %
+Text         1 hr 3 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
+Bash         45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
+TOML         44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
+Git Config   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
 ```
 
 <!--END_SECTION:waka-->
