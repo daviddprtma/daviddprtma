@@ -13,11 +13,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 16 mins   ████████████▒░░░░░░░░░░░░   49.55 %
-TOML         44 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
-Bash         43 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-Text         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-SQL          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Python           1 hr 25 mins    ███████████▒░░░░░░░░░░░░░   45.25 %
+Blade Template   30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
+Text             27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+Bash             25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
+SQL              8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
 ```
 
 <!--END_SECTION:waka-->
