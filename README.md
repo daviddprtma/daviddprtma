@@ -13,11 +13,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 6 mins     ██████████░░░░░░░░░░░░░░░   40.32 %
-Blade Template   30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
-Text             27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
-Bash             25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
-SQL              8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Blade Template   30 mins         ████████▒░░░░░░░░░░░░░░░░   32.81 %
+YAML             21 mins         ██████░░░░░░░░░░░░░░░░░░░   23.85 %
+Bash             20 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
+Docker           7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Makefile         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
 ```
 
 <!--END_SECTION:waka-->
