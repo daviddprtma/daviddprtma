@@ -13,10 +13,9 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-PHP             9 hrs           ████████████████████████▒   97.15 %
-JSON            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Apache Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Git Config      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+PHP             3 hrs 57 mins   ████████████████████████▒   96.84 %
+Apache Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Git Config      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
