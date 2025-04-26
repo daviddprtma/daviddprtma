@@ -13,7 +13,9 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-CSS   10 mins         █████████████████████████   100.00 %
+CSS    2 hrs 14 mins   ██████████████░░░░░░░░░░░   56.12 %
+PHP    1 hr 44 mins    ███████████░░░░░░░░░░░░░░   43.76 %
+HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
