@@ -13,8 +13,9 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-PHP             2 hrs 25 mins   ████████████████████████▓   98.56 %
-Apache Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+PHP                1 hr 11 mins    ███████████████████████▓░   94.09 %
+reStructuredText   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Apache Config      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
