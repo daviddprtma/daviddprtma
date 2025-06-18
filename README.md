@@ -134,7 +134,7 @@ The other stuff for accompany me to stream!
 </p>
 <br>
 
-## My showcase endorse & winner 
+## My showcase for endorse & winner 
 ![stackup homeparcel](https://github.com/user-attachments/assets/ab57fb37-86d2-4dc0-ad04-f5728857cd95)
 ![stackup swag](https://github.com/user-attachments/assets/e9e35f84-0bad-44c8-9fed-8861cc6b05f0)
 
