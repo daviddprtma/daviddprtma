@@ -13,11 +13,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   4 hrs 49 mins   █████████░░░░░░░░░░░░░░░░   35.91 %
-PHP              3 hrs 54 mins   ███████▒░░░░░░░░░░░░░░░░░   29.08 %
-TypeScript       1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
-HTML             1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-Bash             1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+Blade Template   4 hrs 49 mins   █████████▓░░░░░░░░░░░░░░░   38.40 %
+PHP              3 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   31.09 %
+Bash             1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+TypeScript       1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+HTML             26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
 <!--END_SECTION:waka-->
