@@ -13,10 +13,10 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-HTML     2 hrs 56 mins   █████████████▒░░░░░░░░░░░   53.80 %
-Python   2 hrs 26 mins   ███████████▒░░░░░░░░░░░░░   44.89 %
-CSS      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Less     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+HTML     3 hrs 59 mins   ███████████████▒░░░░░░░░░   61.37 %
+Python   2 hrs 17 mins   ████████▓░░░░░░░░░░░░░░░░   35.29 %
+CSS      11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Less     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
