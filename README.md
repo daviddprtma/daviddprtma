@@ -13,11 +13,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         3 hrs 6 mins    ████████████████▒░░░░░░░░   65.73 %
-Rust         52 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
-Solidity     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-Markdown     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-HTML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Bash         4 hrs 47 mins   █████████▒░░░░░░░░░░░░░░░   37.16 %
+TypeScript   3 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   28.58 %
+JavaScript   2 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+Rust         52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+SQL          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
