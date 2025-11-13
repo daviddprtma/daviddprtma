@@ -13,11 +13,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 25 mins   ███████████████▓░░░░░░░░░   62.49 %
-Bash         1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
-Markdown     1 hr 42 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
-JavaScript   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-SQL          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+TypeScript   4 hrs 55 mins   █████████████░░░░░░░░░░░░   51.63 %
+Markdown     2 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   30.90 %
+Bash         1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+SQL          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
