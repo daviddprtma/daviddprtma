@@ -13,8 +13,8 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   2 hrs 49 mins   ██████████████▒░░░░░░░░░░   57.80 %
-PHP              2 hrs 3 mins    ██████████▒░░░░░░░░░░░░░░   41.87 %
+Blade Template   3 hrs 15 mins   ████████████████▓░░░░░░░░   66.03 %
+PHP              1 hr 39 mins    ████████▒░░░░░░░░░░░░░░░░   33.65 %
 HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
