@@ -13,10 +13,9 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   3 hrs 48 mins   ██████████████▓░░░░░░░░░░   58.27 %
-PHP              2 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.38 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+PHP              3 hrs 1 min     █████████████▓░░░░░░░░░░░   54.59 %
+Blade Template   2 hrs 29 mins   ███████████▒░░░░░░░░░░░░░   45.17 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
