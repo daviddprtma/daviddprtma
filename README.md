@@ -13,7 +13,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   49 mins         █████████████████████████   100.00 %
+Bash         1 hr 2 mins     ██████████████████▒░░░░░░   72.99 %
+TypeScript   16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
+CSS          6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Prisma       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
