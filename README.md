@@ -58,9 +58,10 @@ So it is my short introduction to you all. I hope you like my page whenever I ma
 
 ### My Goals
 <details>
-  <summary><b>:telescope: 2025 goal</b></summary>
+  <summary><b>:telescope: 2026 goals</b></summary>
         <ul>
-  <li>Have a good financial, good relationship, and also improve the career to be a better person✅</li>
+            <li>Have a good financial, good relationship, and also improve the career to be a better person✅</li>
+            <li>Need to buy a new PC with RTX 4060Ti as my wish :)</li>
         </ul>
 </details>
 
