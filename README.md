@@ -65,17 +65,19 @@ So it is my short introduction to you all. I hope you like my page whenever I ma
         </ul>
 </details>
 
-## My PC Specs:
+## My PC Specs (Updated to the new PC):
 <ul>
-  <li>AMD Threadripper 1920X 3.5 GHz 12-Core Processor</li>
-  <li>Corsair H100i RGB PLATINUM SE 63 CFM Liquid CPU Cooler</li>
-  <li>Asus ROG Strix X399-E Gaming EATX sTR4 Motherboard</li>
-  <li>(6x) Corsair Vengeance RGB Pro (8 GB) DDR4-3200 CL16 Memory</li>
-  <li>NVIDIA GeForce RTX 2070 SUPER 8 GB Founders Edition Video Card</li>
-  <li>Seagate Barracuda 1 TB 3.5" 7200RPM Internal Hard Drive</li>
-  <li>Crucial P1 1 TB M.2-2280 NVME Solid State Drive</li>
-  <li>Corsair Crystal 680X RGB ATX Mid Tower Case</li>
-  <li>EVGA G3 750 W 80+ Gold Certified Fully Modular ATX Power Supply</li>
+  <li>OS: Windows 11</li>
+  <li>CPU: AMD Ryzen 9 9950X3D 16-core / Alphacool Eistapfen core 1 LT water block</li>
+  <li>GPU: AMD Radeon RX 7900 XTX / Byski water block</li>
+  <li>MOBO: MSI X870E Carbon Wifi</li>
+  <li>FANS: 12x Noctua Chromax Black</li>
+  <li>RAM: 32 GB DDR5 Ares RGB / xmp 6000, cas 30</li>
+  <li>RADIATORS: 2x Alphacool 360 30 rads + top 240 mill rad</li>
+  <li>TUBING: Byski crystal clear ODM 14mm</li>
+  <li>PUMP/RES: Alphacool Eisbergen + D5 pump res combo</li>
+  <li>PSU: Corshair RMX 1000 Watt platinum rated psu</li>
+
 <br>
 The other stuff for accompany me to stream!
 <br>
