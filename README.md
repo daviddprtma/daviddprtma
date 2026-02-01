@@ -23,10 +23,10 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         1 hr 24 mins    ██████████▓░░░░░░░░░░░░░░   42.68 %
-PHP          52 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
-JavaScript   33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-CSS          14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+HTML         1 hr 24 mins    ██████████▓░░░░░░░░░░░░░░   42.75 %
+PHP          52 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.26 %
+JavaScript   33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
+CSS          14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
 Python       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 ```
 
