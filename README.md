@@ -23,11 +23,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-HTML              2 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   35.69 %
-XML               1 hr 9 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
-Python            1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-TypeScript        39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-Rust              25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+HTML              3 hrs 9 mins    ███████████░░░░░░░░░░░░░░   43.88 %
+XML               1 hr 9 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
+Python            1 hr 5 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
+Java Properties   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Docker            21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
 
 <!--END_SECTION:waka-->
