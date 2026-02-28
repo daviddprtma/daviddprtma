@@ -23,11 +23,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 28 mins          ██████████░░░░░░░░░░░░░░░   39.94 %
-HTML         55 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
-Bash         27 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-Markdown     23 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-SQL          21 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+JavaScript   1 hr 18 mins          █████████▓░░░░░░░░░░░░░░░   38.11 %
+HTML         55 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
+Bash         33 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
+SQL          24 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+Docker       9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 ```
 
 <!--END_SECTION:waka-->
