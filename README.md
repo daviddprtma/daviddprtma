@@ -23,11 +23,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Twig         2 hrs 1 min           ██████████░░░░░░░░░░░░░░░   39.45 %
-PHP          1 hr 49 mins          █████████░░░░░░░░░░░░░░░░   35.46 %
-Markdown     20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-TypeScript   19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-Bash         13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+PHP          3 hrs 33 mins         ███████████▓░░░░░░░░░░░░░   46.46 %
+Twig         2 hrs 45 mins         █████████░░░░░░░░░░░░░░░░   36.01 %
+Markdown     20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+TypeScript   19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Bash         13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
