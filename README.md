@@ -23,11 +23,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              4 hrs 21 mins         ███████████████▒░░░░░░░░░   61.28 %
-Twig             1 hr 44 mins          ██████░░░░░░░░░░░░░░░░░░░   24.58 %
-YAML             45 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-Git Config       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-JSON             2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+PHP                4 hrs 7 mins          ███████████████▒░░░░░░░░░   61.18 %
+Twig               1 hr 34 mins          ██████░░░░░░░░░░░░░░░░░░░   23.37 %
+YAML               42 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+reStructuredText   4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Git Config         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
