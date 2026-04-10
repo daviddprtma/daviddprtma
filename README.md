@@ -111,11 +111,11 @@ The other stuff for accompany me to stream!
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/aa28326300247d989c9f7c2eeb177f59577d785b/Assets/RGB%20Line%20Medium.gif?raw=true" width="100%">
 
-## My Skill From 2019 - 2023
-# I order this list programming and editing program from the code that I love until the last order that I seldom to use but I want to implement it more (:
+## My Skill From 2019 - 2026
+# I order this list programming + framework that I used and also editing program from the code that I love until the last order that I seldom to use but I want to implement it more (:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,kotlin,angular,typescript,python,java,html,css,javascript,php,mysql,flutter,unity" />
+    <img src="https://skillicons.dev/icons?i=laravel,symfony,flutter,react,kotlin,angular,typescript,python,java,html,css,javascript,php,mysql,postgres,unity" />
   </a>
 </p>
 <p align="center">
