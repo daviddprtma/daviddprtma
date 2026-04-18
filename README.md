@@ -23,9 +23,9 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-PHP     9 mins                ████████████████████████▓   98.07 %
-JSON    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+PHP     16 mins               ████████████████████████▓   98.84 %
+JSON    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
