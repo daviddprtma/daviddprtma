@@ -42,7 +42,8 @@ Other      0 secs                ░░░░░░░░░░░░░░░�
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=davidchristianpratama&show_border=1&show_date=1&time_zone=Asia/Jakarta" alt="Data Card for Spotify">
 </a>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=zues&animation=grow_out_in)
 
 
 ## Need to collab work with me? For Sure Iam an open person so why not to collab with me and tell to the world that we can do this right? 
