@@ -23,11 +23,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       40 mins               ██████████░░░░░░░░░░░░░░░   39.77 %
-Docker     23 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
-Markdown   21 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
-PHP        16 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Bash         1 hr 33 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
+Diff         1 hr 23 mins          ██████░░░░░░░░░░░░░░░░░░░   24.21 %
+Python       56 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+Other        47 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
+Docker       23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
 ```
 
 <!--END_SECTION:waka-->
