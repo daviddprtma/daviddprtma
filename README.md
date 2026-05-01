@@ -23,11 +23,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Diff       6 hrs 10 mins         █████████████▒░░░░░░░░░░░   53.89 %
-Other      2 hrs 25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
-YAML       1 hr 13 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
-Python     46 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Text       22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Diff       4 hrs 31 mins         ███████████▒░░░░░░░░░░░░░   45.67 %
+Other      2 hrs 4 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
+Python     1 hr 13 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+YAML       1 hr 13 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+Text       22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
 <!--END_SECTION:waka-->
