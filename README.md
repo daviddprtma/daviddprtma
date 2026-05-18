@@ -61,7 +61,7 @@ Wow.... That's so amazing right?? Hahahahhaa
 
 ### Introducing Myself
 <p align="center"> 
-  <p>Hello My Name is David Pratama. Iam **[AGE]** years old. Iam a remote IT Developer from Singapore. I study in University of Surabaya (Ubaya) and I take as a student in 
+  <p>Hello My Name is David Pratama. Iam **25** years old. Iam a remote IT Developer from Singapore. I study in University of Surabaya (Ubaya) and I take as a student in 
     IT field.
 I also started as a streamer in twitch from  July 2022 until now (but it got paused due to demand for work and I'll make sure to come back again when I find a good time to stream and have chit-chat with you all🥲😊).
 If you want to know me well, just say hi and welcome to the my party.
