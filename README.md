@@ -23,11 +23,9 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         47 mins               ████████████████████░░░░░   79.96 %
-Other        6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-TypeScript   5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Other   1 min                 ███████████████▒░░░░░░░░░   60.71 %
+JSON    0 secs                █████████░░░░░░░░░░░░░░░░   36.51 %
+Bash    0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
