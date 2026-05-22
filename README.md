@@ -23,11 +23,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 17 mins          ████████████████████▓░░░░   82.39 %
-JSON         13 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-CSS          2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+JavaScript   2 hrs 59 mins         ██████████████████████▒░░   89.28 %
+JSON         15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+CSS          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Bash         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
