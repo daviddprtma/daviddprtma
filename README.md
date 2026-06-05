@@ -2,9 +2,7 @@
 This is about the general info of mine. Feel free to read it and enjoy to read :)
 
 # My Github Stats
-[![daviddprtma GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddprtma&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
+
 ![Stats Bar Card](https://github-widgetbox.vercel.app/api/profile?username=daviddprtma&data=followers,repositories,stars,commits&theme=dark)
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=daviddprtma&utm_content=line">
       <img src="https://render.gitanimals.org/lines/daviddprtma" width="600" height="120"/></a>
