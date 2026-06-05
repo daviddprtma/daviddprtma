@@ -16,9 +16,6 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 # Special for you MY STALKERS 🤣
 <img src="https://hits.sh/github.com/daviddprtma/hits.svg?style=plastic&label=Visitors&color=purple&labelColor=indigo&logo=github"/>
 
-# My Top Languages To be Used So Far
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddprtma&size_weight=0.5&count_weight=0.5)
-
 # My Top Longest Time To Spend Coding
 <!--START_SECTION:waka-->
 
