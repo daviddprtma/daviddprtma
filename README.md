@@ -18,11 +18,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          1 hr 51 mins          ███████░░░░░░░░░░░░░░░░░░   27.44 %
-Docker       1 hr 21 mins          █████░░░░░░░░░░░░░░░░░░░░   20.01 %
-Bash         1 hr 8 mins           ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
-JavaScript   48 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-JSON         34 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Docker       1 hr 21 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
+Bash         1 hr 18 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+TOML         58 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
+JavaScript   51 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+PHP          41 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
 ```
 
 <!--END_SECTION:waka-->
