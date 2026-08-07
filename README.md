@@ -18,11 +18,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        3 hrs 20 mins         ████████▓░░░░░░░░░░░░░░░░   34.89 %
-Python            1 hr 51 mins          █████░░░░░░░░░░░░░░░░░░░░   19.49 %
-JavaScript        56 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-Bash              55 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-Markdown          41 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+TypeScript        2 hrs 58 mins         █████████░░░░░░░░░░░░░░░░   36.21 %
+Python            1 hr 24 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+JavaScript        56 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Bash              53 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+JSON              34 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
 ```
 
 <!--END_SECTION:waka-->
