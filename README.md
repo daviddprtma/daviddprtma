@@ -1,8 +1,6 @@
 # About daviddprtma & Who IAM ✌️
 This is about the general info of mine. Feel free to read it and enjoy to read :)
 
-hov-r8bjed 
-
 # My Github Stats
 
 ![Stats Bar Card](https://github-widgetbox.vercel.app/api/profile?username=daviddprtma&data=followers,repositories,stars,commits&theme=dark)
