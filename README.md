@@ -18,7 +18,7 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-C++   13 mins               █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
