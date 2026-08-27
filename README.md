@@ -18,11 +18,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Python       19 mins               ████████░░░░░░░░░░░░░░░░░   32.21 %
-JSON         19 mins               ████████░░░░░░░░░░░░░░░░░   31.78 %
-JavaScript   13 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
-Markdown     3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-HTML         2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Python       20 mins               ██████████▒░░░░░░░░░░░░░░   41.46 %
+Markdown     15 mins               ███████▓░░░░░░░░░░░░░░░░░   30.81 %
+JavaScript   12 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.60 %
+HTML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
