@@ -18,11 +18,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       44 mins               ████████████▓░░░░░░░░░░░░   50.77 %
-TOML       14 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-Markdown   9 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-JSON       9 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Text       6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Bash         1 hr 56 mins          ████████████░░░░░░░░░░░░░   48.43 %
+JavaScript   29 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
+JSON         27 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+Markdown     19 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Other        14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
 ```
 
 <!--END_SECTION:waka-->
