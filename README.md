@@ -31,11 +31,14 @@ Bash         38 mins               ███░░░░░░░░░░░░
 [![GitHub Streak](https://streak-stats.demolab.com/?user=daviddprtma&theme=ambient-gradient)](https://git.io/streak-stats)
 
 # What I Recently Played In My Spotify 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=davidchristianpratama)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=davidchristianpratama&duration=1)
 
+# Full Music that recently I played the most
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=davidchristianpratama">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=davidchristianpratama&show_border=1&show_date=1&time_zone=Asia/Jakarta" alt="Data Card for Spotify">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=davidchristianpratama" alt="Data Card for Spotify">
 </a>
+
+
 
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=zues&animation=grow_out_in)
