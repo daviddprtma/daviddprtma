@@ -18,11 +18,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 3 mins           ██████████▒░░░░░░░░░░░░░░   41.73 %
-TypeScript   27 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-Git Config   17 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-TOML         11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-CSS          10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+TypeScript   1 hr 5 mins           ████████████░░░░░░░░░░░░░   48.14 %
+Markdown     14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+TOML         11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+JSON         10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+CSS          10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
 ```
 
 <!--END_SECTION:waka-->
