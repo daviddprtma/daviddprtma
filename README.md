@@ -18,11 +18,11 @@ This is about the general info of mine. Feel free to read it and enjoy to read :
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       2 hrs 21 mins         █████████▓░░░░░░░░░░░░░░░   38.87 %
-Dart       2 hrs                 ████████▒░░░░░░░░░░░░░░░░   33.12 %
-Markdown   1 hr 20 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
-SQL        15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-YAML       6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+JSON       2 hrs 13 mins         ███████████░░░░░░░░░░░░░░   43.81 %
+Dart       1 hr 29 mins          ███████▒░░░░░░░░░░░░░░░░░   29.45 %
+Markdown   58 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
+SQL        19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+YAML       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
